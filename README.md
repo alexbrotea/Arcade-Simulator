@@ -1,7 +1,3 @@
-# Arcade Simulator – SDA Assignment
-
----
-
 ### **Task 1: Matrix Row Rotation**
 
 To begin the assignment, I dynamically allocated a matrix of dimensions n x m.  
